@@ -13,7 +13,7 @@ interface Props {
   check: string;
 }
 export default function HotTheGameFish({ check }: Props) {
-  const swiperRef = useRef() as any;
+  const swiperRef = useRef<any>(null);
 
   // data
 
