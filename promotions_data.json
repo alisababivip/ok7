@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Khuyến mãi nạp tiền đầu tuần - Thưởng 100%",
+    "thumbnail": "https://via.placeholder.com/300x200",
+    "content": "Nhận thưởng 100% cho lần nạp tiền đầu tuần. Áp dụng từ thứ 2 đến chủ nhật hàng tuần.",
+    "isRegister": true,
+    "status": "active",
+    "createdAt": "2025-08-03T05:49:17.688Z",
+    "updatedAt": "2025-08-03T05:49:17.689Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "title": "Hoàn tiền casino hàng ngày - 0.8%",
+    "thumbnail": "https://via.placeholder.com/300x200",
+    "content": "Hoàn tiền 0.8% cho tất cả game casino. Không giới hạn số lần, tự động vào tài khoản.",
+    "isRegister": false,
+    "status": "active",
+    "createdAt": "2025-08-03T05:49:17.689Z",
+    "updatedAt": "2025-08-03T05:49:17.689Z",
+    "deletedAt": null
+  }
+]
